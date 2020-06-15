@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+ 
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R24.0\ACAD-4105:409\Applications\CadCenter]
+
+"DESCRIPTION"="CadCenter Tools"
+
+"LOADCTRLS"=dword:00000002
+
+"MANAGED"=dword:00000001
+
+"LOADER"="C:\\Project.dll"

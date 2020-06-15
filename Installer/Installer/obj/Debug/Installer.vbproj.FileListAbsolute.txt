@@ -1,0 +1,12 @@
+C:\Users\kamil\source\repos\Installer\Installer\bin\Debug\Installer.exe.config
+C:\Users\kamil\source\repos\Installer\Installer\bin\Debug\Installer.exe
+C:\Users\kamil\source\repos\Installer\Installer\bin\Debug\Installer.pdb
+C:\Users\kamil\source\repos\Installer\Installer\bin\Debug\Installer.xml
+C:\Users\kamil\source\repos\Installer\Installer\obj\Debug\Installer.vbprojAssemblyReference.cache
+C:\Users\kamil\source\repos\Installer\Installer\obj\Debug\Installer.Installer.resources
+C:\Users\kamil\source\repos\Installer\Installer\obj\Debug\Installer.Resources.resources
+C:\Users\kamil\source\repos\Installer\Installer\obj\Debug\Installer.vbproj.GenerateResource.cache
+C:\Users\kamil\source\repos\Installer\Installer\obj\Debug\Installer.vbproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\Installer\Installer\obj\Debug\Installer.exe
+C:\Users\kamil\source\repos\Installer\Installer\obj\Debug\Installer.xml
+C:\Users\kamil\source\repos\Installer\Installer\obj\Debug\Installer.pdb

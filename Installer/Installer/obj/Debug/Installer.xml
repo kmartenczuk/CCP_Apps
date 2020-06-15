@@ -1,0 +1,75 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Installer
+</name>
+</assembly>
+<members>
+<member name="T:Installer.My.Resources.Resources">
+<summary>
+  Klasa zasobu wymagająca zdefiniowania typu do wyszukiwania zlokalizowanych ciągów itd.
+</summary>
+</member>
+<member name="P:Installer.My.Resources.Resources.ResourceManager">
+<summary>
+Zwraca buforowane wystąpienie ResourceManager używane przez tę klasę.
+</summary>
+</member>
+<member name="P:Installer.My.Resources.Resources.Culture">
+<summary>
+  Przesłania właściwość CurrentUICulture bieżącego wątku dla wszystkich
+  przypadków przeszukiwania zasobów za pomocą tej klasy zasobów wymagającej zdefiniowania typu.
+</summary>
+</member>
+<member name="P:Installer.My.Resources.Resources.banner">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Installer.My.Resources.Resources.banner1">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Installer.My.Resources.Resources.favicon">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Installer.My.Resources.Resources.License">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu End-User License Agreement of CadCenter Tools
+---------------------------------------------------------------------------------------
+
+This End-User License Agreement (&quot;EULA&quot;) is a legal agreement between you and Kamil Martenczuk
+
+This EULA agreement governs your acquisition and use of our CadCenter Tools software (&quot;Software&quot;) directly from Kamil Martenczuk or indirectly through a Kamil Martenczuk authorized reseller or distributor (a &quot;Reseller&quot;).
+
+Please read this EULA agreement carefully before com [obcięto pozostałą część ciągu]&quot;;.
+</summary>
+</member>
+<member name="P:Installer.My.Resources.Resources.logomenu">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Installer.My.Resources.Resources.regis">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Windows Registry Editor Version 5.00
+
+ 
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\R24.0\ACAD-4105:409\Applications\CadCenter]
+
+&quot;DESCRIPTION&quot;=&quot;CadCenter Tools&quot;
+
+&quot;LOADCTRLS&quot;=dword:00000002
+
+&quot;MANAGED&quot;=dword:00000001
+
+&quot;LOADER&quot;=&quot;C:\\Project.dll&quot;.
+</summary>
+</member>
+</members>
+</doc>
